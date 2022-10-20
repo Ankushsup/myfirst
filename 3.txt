@@ -1,0 +1,17 @@
+ git config --global user.name "ankush" // create the global username
+
+git config --global user.email "anku.com"  //create the global user
+
+git init  // to initialize the git command
+
+touch first.extension //to create the file
+
+pwd // check the location
+
+git status   //to check the status of the git
+
+git add . // to add the newly created file in local repositery
+
+git commit -m "name of the repo"  //commit the work in repo
+
+git log  //to check the log of the all the work
